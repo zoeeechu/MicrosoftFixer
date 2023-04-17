@@ -7,11 +7,12 @@ This tool Works with the `Microsoft_Office_License_Removal.pkg`
 
 TODO 
 
-Find Microsoft keys in keychain and remove them
-#rm bellow
-#Microsoft Office Identities cache 2
-#Microsoft Office Identities settings 2 
-##
+Find Microsoft keys in keychain and remove them...<br />
+<br />
+#rm bellow<br />
+#Microsoft Office Identities cache 2<br />
+#Microsoft Office Identities settings 2 <br />
+##<br />
 
 
 
